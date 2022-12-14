@@ -1,4 +1,7 @@
-### Hi there 👋
+### *"Empieza la función, aquí se admiten peticiones"*
+
+## About me:
+
 
 <!--
 **Georgi254/Georgi254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

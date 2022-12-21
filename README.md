@@ -2,6 +2,13 @@
 
 ## About me:
 
+🔍 Currently studying at 4Geeks Academy<br>
+💬 You can speak to me in: 🇬🇧 🇪🇸 🇧🇬<br>
+🧑‍💼 Former Cabin Crew ✈️ and Musician 🎸<br>
+🚶‍♂️ Both dog and cat lover! On my free time I love going for a walks, reading, listening to music and playing videogames<br>
+📫[My email](georgi.gyovchev254@gmail.com)<br>
+💡Fun fact: Sleeping is a great way to travel forward in time!
+
 
 <!--
 **Georgi254/Georgi254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
